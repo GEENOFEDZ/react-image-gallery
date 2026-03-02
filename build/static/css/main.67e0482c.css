@@ -1,0 +1,2 @@
+body{background-color:#f4f4f4;font-family:Arial,sans-serif;margin:0}.title{padding:20px;text-align:center}.gallery{grid-gap:20px;display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));padding:20px}.card{background:#fff;border-radius:8px;box-shadow:0 4px 8px #0000001a;padding:10px;text-align:center}.card img{border-radius:6px;height:200px;object-fit:cover;width:100%}
+/*# sourceMappingURL=main.67e0482c.css.map*/
